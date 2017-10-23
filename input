@@ -1,0 +1,5 @@
+clear X;
+clear Y;
+expression X = 5//*3
+expression Y = 2+2
+expression X = -(X+Y)*3
